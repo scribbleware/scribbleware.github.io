@@ -6,7 +6,7 @@ I don't have a lot of public github activity. Most of my github documentation is
 
 I do have over 15 years of technical writing experience, and particularly enjoy docs as code and delving into technical details. My career has been a circuitous path, due to a love of software technology and writing. Marry the two, and here I am.
 
-The key to good technical writing, I believe, can best be described as Blaise Pascal, who wrote: “If I had more time, I would have written a shorter letter.” Here's to clarity and succinctness.
+The key to good technical writing, I believe, can best be described by Blaise Pascal, who wrote: “If I had more time, I would have written a shorter letter.” Here's to clarity and succinctness.
 
 ## My Experience
 
