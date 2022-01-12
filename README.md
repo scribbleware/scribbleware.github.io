@@ -40,7 +40,7 @@ I was the managing editor for two monthly magazines about horses (I do not own a
 
 #### Fujitsu Computer Products of America
 
-I provided technical support for hard drives and later designed the UI for the tech support team's case management software, followed by technical writing web content for hard drive specifications. I had a lovely manager, who rewarded my hard work and supported me more than anywone I've ever worked for.
+I provided technical support for hard drives and later designed the UI for the tech support team's case management software, followed by technical writing web content for hard drive specifications. I had a lovely manager, who rewarded my hard work and supported me more than anyone I've ever worked for.
 
 #### Earlier work
 
